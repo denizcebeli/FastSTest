@@ -1,5 +1,6 @@
 # FastSTest
 YÜKSEK BOYUTLU GENOM VERİLERİNDE SIRALI ÖRÜNTÜLERİ SAHİP BAĞIMLI ÖZELLİKLERİN SEÇİMİ İÇİN S TESTİ UYARLAMASI
+
 (Yüksek Lisans Tezi)
 
 Deniz CEBELİ
@@ -26,6 +27,7 @@ uyarlanması önem arz etmektedir. Bu çalışmada, aşırı çarpık dağılım
 konveks/konkav alternatif hipotez durumlarında JT testine göre daha iyi sonuçlar veren S
 istatistiğinin yüksek boyutlu veriler için uyarlanmış algoritması önerilmiştir. Elde edilen
 sonuçlar S istatistiğinin yüksek boyutlu veriler için daha kullanışlı olduğunu göstermektedir.
+
 fastS.R fonksiyonu: X ve Y değişkenleri için S istatistiğinin hesaplanması
 
 fastSG.R fonksiyonu: Genom verisi için S istatistiğinin hesaplanması
