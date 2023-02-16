@@ -33,3 +33,7 @@ fastS.R fonksiyonu: X ve Y değişkenleri için S istatistiğinin hesaplanması
 fastSG.R fonksiyonu: Genom verisi için S istatistiğinin hesaplanması
 
 generateData.R fonksiyonu: Simülasyon tasarımı
+
+Kaynak
+
+Cebeli, D., and Altunkaynak, B.(2022).Yüksek Boyutlu Genom Verilerinde Sıralı Örüntülere Sahip Bağımlı Özelliklerin Seçimi İçin S Testi Uyarlaması
