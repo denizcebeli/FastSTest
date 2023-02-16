@@ -1,11 +1,17 @@
 # FastSTest
 YÜKSEK BOYUTLU GENOM VERİLERİNDE SIRALI ÖRÜNTÜLERİ SAHİP BAĞIMLI ÖZELLİKLERİN SEÇİMİ İÇİN S TESTİ UYARLAMASI
 (Yüksek Lisans Tezi)
+
 Deniz CEBELİ
+
 GAZİ ÜNİVERSİTESİ
+
 FEN BİLİMLERİ ENSTİTÜSÜ
+
 Ağustos 2022
+
 ÖZET
+
 Yüksek boyutlu verilerde özellik seçimi makine öğrenmesindeki kritik adımlardan biridir.
 Yüksek boyutlu veriler çok sayıda niteliğe karşın az sayıda gözlem içeren veri yapılarıdır.
 Özellikle gen verilerine ilişkin çalışmalarda bu tarz verilerle çok sık karşılaşılmaktadır. Son
